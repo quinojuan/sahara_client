@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    /* border: 1px solid red; */
+    display: flex;
+    background-color: beige;
+    height: 80px;
+    justify-content: space-between;
+}
+
+.sub-container {
+    /* border: 1px solid purple; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 200px;
+    align-items: center;
+
+}
+
+.logo {
+    /* border: 1px solid blue; */
+    width: 200px;
+    background: grey;
+    display: flex;
+}
+
+.logo p {
+    font-size: 2em;
+    justify-content: center;
+    margin: auto;
+
+}

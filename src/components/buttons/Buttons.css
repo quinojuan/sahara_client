@@ -1,0 +1,11 @@
+.container-buttons {
+    display: flex;
+    background-color: burlywood;
+    height: 50px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.buttons button, .sub-container-buttons button {
+    margin: 0 5px;
+}

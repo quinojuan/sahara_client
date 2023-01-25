@@ -1,0 +1,27 @@
+[
+  {
+    "codigo": 1,
+    "descripcion": "Pantalón",
+    "precio": 5000,
+    "cantidad": 1,
+    "importe": null,
+    "existencia": 10
+  },
+  {
+    "codigo": 2,
+    "descripcion": "Remera",
+    "precio": 3000,
+    "cantidad": 3,
+    "importe": null,
+    "existencia": 10
+  },
+  {
+    "codigo": 3,
+    "descripcion": "Jogging",
+    "precio": 2500,
+    "cantidad": 1,
+    "importe": null,
+    "existencia": 10
+  }
+
+]

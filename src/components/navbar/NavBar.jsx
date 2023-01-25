@@ -6,7 +6,7 @@ const NavBar = () => {
     <div>
       <div className="container">
         <div className='logo'>
-            <p>LOGO</p>
+            <p>SAHARA</p>
         </div>
         <div className='sub-container'>
             <div className='user'>Usuario</div>

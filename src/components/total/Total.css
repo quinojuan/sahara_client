@@ -1,4 +1,7 @@
 .container-total {
     color: blue;
-    text-align: center;
+}
+
+.container-total h3 {
+    padding-right: 10px;
 }

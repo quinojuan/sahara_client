@@ -3,3 +3,11 @@
     min-width: 960px;
     margin: 10px auto;
 }
+
+.barra-inferior {
+    background-color: rgb(193, 186, 186);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+}

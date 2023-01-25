@@ -7,6 +7,7 @@ import Options from "./components/options/Options";
 import ProductSearch from "./components/productsearch/ProductSearch";
 import TitleBar from "./components/titlebar/TitleBar";
 import Total from "./components/total/Total";
+import VentaActual from "./components/ventaactual/VentaActual";
 
 function App() {
   return (
@@ -17,7 +18,10 @@ function App() {
       <ProductSearch />
       <Options />
       <DataTable />
-      <Total />
+      <div className="barra-inferior">
+        <VentaActual />
+        <Total />
+      </div>
     </div>
   );
 }

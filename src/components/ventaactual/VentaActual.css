@@ -1,0 +1,32 @@
+.container-venta-actual {
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.container-venta-actual button {
+    margin: 0 5px;
+}
+
+
+.A {
+    display: flex;
+    flex-direction: column;
+}
+
+.sub-a {
+    display: flex;
+    justify-content: space-around;
+}
+
+.B {
+    display: flex;
+    width: 100px;
+}
+
+.B button {
+    margin: auto;
+    padding: 10px;
+
+}
